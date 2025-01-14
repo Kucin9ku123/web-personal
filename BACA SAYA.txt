@@ -1,0 +1,3 @@
+Portable SLIMS for SLiMS 9 Bulian Release Code 9.2.0
+---------------------------------
+Build September, 14th, 2020
